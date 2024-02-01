@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532498172270",
+    "project_id": "finest-finds-store",
+    "storage_bucket": "finest-finds-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532498172270:android:a97fcb42aef0d497e8d97f",
+        "android_client_info": {
+          "package_name": "com.example.finestfindsstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLD6aXa0JQl_j-wOqgOYr5doqyjRUK-cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
